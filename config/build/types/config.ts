@@ -19,4 +19,6 @@ interface BuildEnv {
   port: number;
 }
 
-export type { BuildOptions, BuildMode, BuildPaths, BuildEnv };
+export type {
+  BuildOptions, BuildMode, BuildPaths, BuildEnv,
+};
